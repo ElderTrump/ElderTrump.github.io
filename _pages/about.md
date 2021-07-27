@@ -12,5 +12,5 @@ Hi everyone! I am Chenbei Lu, a first year Ph.D. student at the Institute for In
 
 I major in Computer Science and Technology, and my research direction is the interdisciplinary research of computer science and energy economics / urban systems.
 
-#lalala
+{#lalala}
 
