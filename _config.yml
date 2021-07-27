@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-China"
-title                    : "Chenbei Lu"
+title                    : "Chenbei Lu (卢晨贝)"
 title_separator          : "-"
 name                     : &name "Mr. Chenbei Lu"
 description              : &description "CS Ph.D. student at Tsinghua University"
