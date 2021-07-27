@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Mr. Lu Account's home on the web!
+I'm a Ph.D. student at the Institute for Interdisciplinary Information Sciences, Tsinghua University. My major is Computer Science and Technology, and my research direction is interdisciplinary of computer science and energy economics / urban systems.
 
 Lorem ipsum.
 
