@@ -10,7 +10,7 @@ locale                   : "cn-China"
 title                    : "Chenbei Lu"
 title_separator          : "-"
 name                     : &name "Mr. Chenbei Lu"
-description              : &description "phD student at Tsinghua University"
+description              : &description "CS Ph.D. student at Tsinghua University"
 url                      : https://eldertrump.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eldertrump.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chenbei Lu"
   avatar           : "profile.png"
-  bio              : "phD student in CS"
+  bio              : "CS Ph.D. student"
   location         : "Beijing, China"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Tsinghua University"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Td_ZxvEAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : 
+  researchgate     :  "https://www.researchgate.net/profile/Chenbei-Lu"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chenbei-lu-a44928210/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
