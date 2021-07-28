@@ -10,7 +10,7 @@ redirect_from:
 
 Hi everyone! I am Chenbei Lu, a first-year Ph.D. student at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My advisor is Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before joining Tsinghua, I obtained a bachelor's degree in software engineering from Huazhong University of Science & Technology (HUST).
 
-I major in Computer Science and Technology, and my research interest lies in the interdisciplinary research of **computer science** and **energy economics** / **urban systems**. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！
+I major in Computer Science and Technology, and my research interest lies in the interdisciplinary research of **Computer Science** and **Energy Economics** / **Urban Systems**, especially in modeling, analyzing and optimizing the **Energy-Transportation Systems**. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！
 
 ---
 # Publications #
