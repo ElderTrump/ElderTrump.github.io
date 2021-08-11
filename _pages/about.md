@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<font size=3>Hi everyone! I am Chenbei Lu, a first-year Ph.D. student at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My advisor is Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before joining Tsinghua, I obtained a bachelor's degree in software engineering from Huazhong University of Science & Technology (HUST).</font>
+<font size=3>Hi everyone! I am Chenbei Lu, a first-year Ph.D. student at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. I major in Computer Science and Technology, and my advisor is Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before joining Tsinghua, I obtained a bachelor's degree in software engineering from Huazhong University of Science & Technology (HUST).</font>
 
-
-<font size=3>I major in Computer Science and Technology, and my research interest lies in the interdisciplinary research of <b>Computer Science</b> and <b>Energy-Transportation Systems</b>, especially with the perspective of game theory, optimization, and machine learning. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！</font>
+---
+## Research Interests ##
+<font size=3> My research interests lie in the interdisciplinary research of <b>Computer Science</b> and <b>Energy-Transportation Systems</b>, especially with the perspective of game theory, optimization, and machine learning. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！</font>
 
 ---
 # Publications #
