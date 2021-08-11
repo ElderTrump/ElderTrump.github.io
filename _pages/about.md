@@ -18,7 +18,7 @@ redirect_from:
 ---
 ## Publications ##
 
-1. <font size=3>“On the Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
+1. <font size=3>“Storage-Aided Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by <b>CDC '21</b>.<font size=2>
 2. <font size=3>“Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform”<font size=3><br>
