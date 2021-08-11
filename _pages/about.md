@@ -15,7 +15,7 @@ redirect_from:
 <font size=3> My research interests lie in the interdisciplinary research of <b>Computer Science</b> and <b>Energy-Transportation Systems</b>, especially with the perspective of game theory, optimization, and machine learning. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！</font>
 
 ---
-# Publications #
+## Publications ##
 
 1. <font size=3>“On the Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
