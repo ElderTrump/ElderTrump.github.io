@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Chenbei Lu**, Zhiqi Wang, Chenye Wu*, “On the Service Surcharge Design for EV Charging Stations”, accepted by **CDC 2021**.
-2. Jiaman Wu, **Chenbei Lu**, Chenye Wu*, Yongli Qin, Qun Li, Nan Ma, Jun Fang, “Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform”, accepted by **UbiComp 2021**.
-3. Haoxiang Wang, Jiasheng Zhang, **Chenbei Lu**, and Chenye Wu*, “Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”, accepted by **IEEE Transactions on Smart Grid** in **2020**.
+
+1. <font size=3>“Storage-Aided Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
+    <font size=2><b>Chenbei Lu</b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
+    <font size=2>Accepted by <b>CDC '21</b>.<font size=2>
+2. <font size=3>“Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform”<font size=3><br>
+    <font size=2>Jiaman Wu, <b>Chenbei Lu</b>, Chenye Wu, Yongli Qin, Qun Li, Nan Ma, Jun Fang<font size=2><br>
+    <font size=2>Accepted by <b>UbiComp '21</b>.<font size=2>
+4.  <font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
+    <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu</b>, Chenye Wu</font><br>
+    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>.</font>
