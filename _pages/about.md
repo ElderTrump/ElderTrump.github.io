@@ -16,13 +16,13 @@ redirect_from:
 # Publications #
 
 1. <font size=3>“On the Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
-    <font size=2>Chenbei Lu, Zhiqi Wang, Chenye Wu<font size=2> <br>
+    <font size=2><b>Chenbei Lu<\b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by **CDC '21**<font size=2>
 2. <font size=3>“Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform”</font><br>
-    <font size=2>Jiaman Wu, **Chenbei Lu**, Chenye Wu, Yongli Qin, Qun Li, Nan Ma, Jun Fang</font><br>
+    <font size=2>Jiaman Wu, <b>Chenbei Lu<\b>, Chenye Wu, Yongli Qin, Qun Li, Nan Ma, Jun Fang</font><br>
     <font size=2>Accepted by **UbiComp '21**.</font>
 4.  <font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
-    <font size=2>Haoxiang Wang, Jiasheng Zhang, **Chenbei Lu**, Chenye Wu</font><br>
+    <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu<\b>, Chenye Wu</font><br>
     <font size=2>Accepted by **IEEE Transactions on Smart Grid**.</font>
 
 
