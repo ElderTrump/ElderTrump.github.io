@@ -21,7 +21,7 @@ redirect_from:
 
 1. <font size=3>“Efficiency or Fairness? Carpooling Design for Online Ride-hailing Platform”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu, Yongli Qin, Qun Li, Nan Ma<font size=2> <br>
-    <font size=2>Accepted by <b>ACM SIGSPATIAL '21</b> as Full Paper in Research Track.<font size=2>
+    <font size=2>Accepted by the 29th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (<b>ACM SIGSPATIAL 2021</b>) as Full Paper in Research Track.<font size=2>
 2. <font size=3>“Storage-Aided Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by the 60th Conference on Decision and Control (<b>CDC '21</b>) as Regular Paper.<font size=2>
