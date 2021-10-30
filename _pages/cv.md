@@ -14,6 +14,6 @@ Education
 ======
 * B.E. in Software Engineering, Huazhong University of Science & Technology, 2020
 
-   *GPA 3.97/4.0, Rank 1/187*
+   *GPA 3.97/4.0, Rank 1/180*
 * Ph.D. in Computer Science & Technology, Tsinghua University, 2025 (expected)
 
