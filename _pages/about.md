@@ -20,7 +20,7 @@ redirect_from:
 ---
 ## Academic Service ##
 
-<font size=3> ## Reviewer ##: ACC 2022, PSCC 2022, SEST 2021
+<font size=3> <b>Reviewer</b>: ACC 2022, PSCC 2022, SEST 2021
 
 ---
 ## Publications ##
