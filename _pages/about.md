@@ -18,7 +18,7 @@ redirect_from:
 
 ---
 ## Academic Service ##
-<font size=3> <b>TPC Menber</b>: SmartGridComm 2022 </font>
+<font size=3> <b>TPC Member</b>: SmartGridComm 2022 </font><br>
 <font size=3> <b>Reviewer</b>: ACC 2022, PSCC 2022, SEST 2021 </font>
 
 ---
