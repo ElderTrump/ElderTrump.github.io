@@ -15,15 +15,8 @@ redirect_from:
 ## Research Interests ##
 <font size=3> My research interests lie in the interdisciplinary research of <b>Computer Science</b> and <b>Urban Energy-Transportation Systems</b>, especially with the perspective of game theory, optimization, and machine learning. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！</font>
 
-
 ---
-## Academic Service ##
-<font size=3> <b>TPC Member</b>: SmartGridComm 2022 </font>
-
-<font size=3> <b>Reviewer</b>: ACC 2022, PSCC 2022, SEST 2021 </font>
-
----
-## News 
+## News ##
 <font size=2>Feb. 2, 2022, our work 'Privacy-Preserving Decentralized Price Coordination
 for EV Charging Stations' has been accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>)! and will be published in <b>Electric Power Systems Research</b>.
 
@@ -45,5 +38,11 @@ for EV Charging Stations' has been accepted by the 22th Power Systems Computatio
 5.  <font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
     <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu</b>, Chenye Wu</font><br>
     <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>.</font>
+
+---
+## Academic Service ##
+<font size=3> <b>TPC Member</b>: SmartGridComm 2022 </font>
+
+<font size=3> <b>Reviewer</b>: ACC 2022, PSCC 2022, SEST 2021 </font>
 
 
