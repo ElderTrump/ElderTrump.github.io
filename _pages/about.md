@@ -21,7 +21,7 @@ redirect_from:
 for EV Charging Stations' has been accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>)! and will be published in <b>Electric Power Systems Research</b>.
 
 ---
-** Publications **
+## publication ##
 1. <font size=3>“Privacy-Preserving Decentralized Price Coordination for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>).<font size=2>
