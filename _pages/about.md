@@ -17,7 +17,9 @@ redirect_from:
 
 ---
 ## News ##
-<font size=2>Feb. 21, 2022, our work 'Learning-Aided Framework for Storage Control Facing Renewable Energy' has been accepted by <b>IEEE Systems Journal</b>.</font>  
+<font size=2>Feb. 21, 2022, our work 'Learning-Aided Framework for Storage Control Facing Renewable Energy' has been accepted by <b>IEEE Systems Journal</b>!</font>  
+
+
 
 <font size=2>Feb. 2, 2022, our work 'Privacy-Preserving Decentralized Price Coordination
 for EV Charging Stations' has been accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>)! and will be published in <b>Electric Power Systems Research</b>.</font>
