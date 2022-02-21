@@ -17,10 +17,16 @@ redirect_from:
 
 ---
 ## News ##
-<font size=2>Feb. 21, 2022, our work 'Learning-Aided Framework for Storage Control Facing Renewable Energy' has been accepted by IEEE Systems Journal.
-
+<font size=2>Feb. 21, 2022, our work 'Learning-Aided Framework for Storage Control Facing Renewable Energy' has been accepted by IEEE Systems Journal.</font>
 <font size=2>Feb. 2, 2022, our work 'Privacy-Preserving Decentralized Price Coordination
-for EV Charging Stations' has been accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>)! and will be published in <b>Electric Power Systems Research</b>.
+for EV Charging Stations' has been accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>)! and will be published in <b>Electric Power Systems Research</b>.</font>
+
+---
+## Academic Service ##
+<font size=3> <b>TPC Member</b>: SmartGridComm 2022 </font>  
+      
+<font size=3> <b>Reviewer</b>: ACC 2022, PSCC 2022, SEST 2021 </font>
+
 
 ---
 ## Publication ##
@@ -38,16 +44,12 @@ for EV Charging Stations' has been accepted by the 22th Power Systems Computatio
     <font size=2>Accepted by the 60th Conference on Decision and Control (<b>CDC '21</b>).<font size=2>
 5. <font size=3>“Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform”<font size=3><br>
     <font size=2>Jiaman Wu, <b>Chenbei Lu</b>, Chenye Wu, Yongli Qin, Qun Li, Nan Ma, Jun Fang<font size=2><br>
-    <font size=2>Accepted by the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>UbiComp '21</b>) as a workshop paper.<font size=2>
+    <font size=2>Accepted by the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>UbiComp '21</b>) as a workshop paper.</font>
 6.  <font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
     <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu</b>, Chenye Wu</font><br>
     <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>.</font>
 
----
-## Academic Service ##
-<font size=3> <b>TPC Member</b>: SmartGridComm 2022 </font>  
-      
-<font size=3> <b>Reviewer</b>: ACC 2022, PSCC 2022, SEST 2021 </font>
+
 
 
 
