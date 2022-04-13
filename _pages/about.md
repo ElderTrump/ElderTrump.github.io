@@ -24,7 +24,7 @@ for EV Charging Stations' has been accepted by the 22th Power Systems Computatio
 
 ---
 ## Academic Service ##
-<font size=3> <b>TPC Member</b>: SmartGridComm 2022 </font>  <br><font size=3> <b>Reviewer</b>: ACC 2022, PSCC 2022, SEST 2021 </font>
+<font size=3> <b>TPC Member</b>: <br>SmartGridComm 2022 </font>  <br><font size=3> <b>Reviewer</b>:<br> <b>Conference</b>:  ACC 2022, PSCC 2022, SEST 2021 </font><br> <b>Journal</b>:  IEEE Systems Journal, Electric Power Systems Research
 
 
 ---
