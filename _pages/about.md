@@ -27,9 +27,8 @@ for EV Charging Stations' has been accepted by the 22th Power Systems Computatio
 <font size=3><b>TPC Member</b>:<font size=3> <font size=2>SmartGridComm 2022 <font size=2>  <br>
 <font size=3><b>Reviewer</b>:<font size=3>  <br>
 <font size=2><b>Conference</b>:  ACC 2022, PSCC 2022, SEST 2021<font size=2>  <br>
-<font size=2><b>Journal</b>:  IEEE Systems Journal, Electric Power Systems Research<font size=2>
-
-
+<font size=2><b>Journal</b>:  IEEE Systems Journal, Electric Power Systems Research </font></font></font></font></font></font></font></font>
+  
 ---
 ## Publication ##
 1. <font size=3>“Effective End-to-End Learning Framework for Economic Dispatch”<font size=3>  <br>
