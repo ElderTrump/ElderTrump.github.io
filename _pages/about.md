@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 ## Research Interests ##
-<font size=3> My research interests lie in the interdisciplinary research of <b>Computer Science</b> and <b>Urban Power-Transportation Systems</b>, especially with the perspective of game theory, optimization, and machine learning. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！</font>
+<font size=3> My research interests lie in the interdisciplinary research of <b>Computational Science</b> and <b>Urban Power-Transportation Systems</b>, especially with the perspective of game theory, optimization, and machine learning. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！</font>
 
 ---
 ## News ##
