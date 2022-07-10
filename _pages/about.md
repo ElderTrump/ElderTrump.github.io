@@ -41,7 +41,7 @@ for EV Charging Stations' has been accepted by the 22th Power Systems Computatio
     <font size=2>Accepted by <b>IEEE Systems Journal</b>.<font size=2>
 4. <font size=3>“Privacy-Preserving Decentralized Price Coordination for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>).<font size=2>
+    <font size=2>Accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>.<font size=2>
 5. <font size=3>“Efficiency or Fairness? Carpooling Design for Online Ride-hailing Platform”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu, Yongli Qin, Qun Li, Nan Ma<font size=2> <br>
     <font size=2>Accepted by the 29th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (<b>ACM SIGSPATIAL 2021</b>) as a full paper in research track.<font size=2>
