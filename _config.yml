@@ -9,7 +9,7 @@
 locale                   : "cn-China"
 title                    : "Chenbei Lu"
 title_separator          : "-"
-name                     : &name "Elvin"
+name                     : &name "Chenbei & Elvin"
 description              : &description "CS Ph.D. student at Tsinghua University"
 url                      : https://eldertrump.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
