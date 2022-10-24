@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>Hi everyone! I am Chenbei Lu, a second-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in Computer Science and Technology, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in Software Engineering from Huazhong University of Science & Technology (HUST).</font>
+<font size=3>Hi everyone! I am Chenbei Lu, a third-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in Computer Science and Technology, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in Software Engineering from Huazhong University of Science & Technology (HUST).</font>
 
 ---
 ## Research Interests ##
@@ -26,7 +26,7 @@ for EV Charging Stations' has been accepted by the 22th Power Systems Computatio
 ---
 ## Academic Service ##
 <font size=3><b>TPC Member</b>:</font> <font size=2>SmartGridComm 2022 </font>  <br>
-<font size=3><b>Reviewer</b>:</font> <font size=2><b>Conference</b>:  ACC 2022, PSCC 2022, SEST 2021</font> <font size=2><b>Journal</b>:  IEEE Systems Journal, Electric Power Systems Research </font>
+<font size=3><b>Reviewer</b>:</font> <font size=2><b>Conference</b>:  ACC 2022-2023, PSCC 2022, SEST 2021</font> <font size=2><b>Journal</b>:  IEEE Systems Journal, Electric Power Systems Research </font>
   
 ---
 ## Publication ##
