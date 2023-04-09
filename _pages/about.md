@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 ## Research Interests ##
-<font size=3> My research interests lie in the interdisciplinary research of <b>Computer Sciences</b> and <b>Energy Systems</b>, concentrating on the designs and operations to enable the future smart grid and power systems with higher reliability, better economic performance, and lower carbon emissions. Technically, we analyze the problems from the perspectives of <b>game theory</b>, <b>optimization</b>, and <b>machine learnings</b>. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！!</font>
+<font size=3> My research interests lie in the interdisciplinary research of <b>Computer Science</b> and <b>Energy Systems</b>, focusing on the optimal design and operation to enable the future smart grid and power systems with higher reliability, better economic performance, and lower carbon emission. Technically, we analyze the problems from the perspectives of <b>game theory</b>, <b>optimization</b>, and <b>machine learning</b>. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！!</font>
 
 ---
 ## News ##
