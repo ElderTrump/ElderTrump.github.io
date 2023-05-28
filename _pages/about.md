@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>Hi everyone! I am Chenbei Lu, a third-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in Computer Science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in Software Engineering from Huazhong University of Science & Technology (HUST).</font>
+<font size=3>Hi everyone! I am Chenbei Lu, a third-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in Computer Science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in Software Engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
 
 ---
 ## Research Interests ##
@@ -17,14 +17,13 @@ redirect_from:
 
 ---
 ## News ##
+<font size=2>*May. 28, 2023, I will visit the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, this September, working with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>!  </font> <br>
 <font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>!</font> <br>
 <font size=2>*Feb. 6, 2023, our work 'High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach' has been accepted by <b>The Journal of the Franklin Institute</b>!</font> <br>
 <font size=2>*Jan. 17, 2023, our work 'Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
 <font size=2>*Jul. 13, 2022, our work 'Deadline Differentiated Dynamic EV Charging Price Menu Design' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
 <font size=2>*Apr. 13, 2022, our work 'Effective End-to-End Learning Framework for Economic Dispatch' has been accepted by <b>IEEE Transactions on Network Science and Engineering</b>!</font> <br>
-<font size=2>*Feb. 21, 2022, our work 'Learning-Aided Framework for Storage Control Facing Renewable Energy' has been accepted by <b>IEEE Systems Journal</b>!</font> <br>
-<font size=2>*Feb. 2, 2022, our work 'Privacy-Preserving Decentralized Price Coordination
-for EV Charging Stations' has been accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>)! and will be published in <b>Electric Power Systems Research</b>.</font>
+
 
 ---
 ## Academic Service ##
