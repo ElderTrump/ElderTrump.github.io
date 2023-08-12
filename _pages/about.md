@@ -28,7 +28,7 @@ redirect_from:
 ---
 ## Academic Service ##
 <font size=3><b>TPC Member</b>:</font> <font size=2>SmartGridComm 2022 </font>  <br>
-<font size=3><b>Reviewer</b>:</font> <font size=2><b>Conference</b>:  ACC 2022-2023, PSCC 2022, SEST 2021</font> <font size=2><b>Journal</b>:  IEEE Systems Journal, Electric Power Systems Research </font>
+<font size=3><b>Reviewer</b>:</font> <font size=2><b>Conference</b>:  ACC 2022-2023, SmartGridComm 2023, PSCC 2022, SEST 2021</font> <font size=2><b>Journal</b>:  IEEE Transactions on Smart Grid, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, Electric Power Systems Research </font>
   
 ---
 ## Publication ##
