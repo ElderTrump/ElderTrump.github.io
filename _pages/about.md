@@ -31,6 +31,17 @@ redirect_from:
   
 ---
 ## Publication ##
+<ul>
+  <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
+    <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
+    <font size=2>Accepted by <b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2></li>
+  <li><font size=3>“Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees”<font size=3>  <br>
+    <font size=2> Wenqian Jiang, <b>Chenbei Lu</b>, Chenye Wu<font size=2> <br>
+    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2></li>
+  <li>Milk</li>
+</ul>
+
+
 1. <font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by <b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2>
