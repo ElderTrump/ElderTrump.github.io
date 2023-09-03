@@ -17,7 +17,8 @@ redirect_from:
 
 ---
 ## News ##
-<font size=2>*May. 28, 2023, I will visit the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, for six months starting from this September! working with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>  </font> <br>.
+<font size=2>*Sep. 2, 2022, our work 'Privacy Preserving User Energy Consumption Profiling: From Theory to Application' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
+<font size=2>*Aug. 27, 2023, I begin the exciting visit to the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, for six months, where I work with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a> and a lot of interesting people!</font> <br>
 <font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>!</font> <br>
 <font size=2>*Feb. 6, 2023, our work 'High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach' has been accepted by <b>The Journal of the Franklin Institute</b>!</font> <br>
 <font size=2>*Jan. 17, 2023, our work 'Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
