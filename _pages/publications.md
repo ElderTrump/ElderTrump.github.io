@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <ul>
-  <li><font size=3>Privacy Preserving User Energy Consumption Profiling: From Theory to Application<font size=3>  <br>
+  <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
