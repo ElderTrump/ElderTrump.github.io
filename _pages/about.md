@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>Hi everyone! I am Chenbei Lu, a fourth-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in Computer Science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in Software Engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
+<font size=3>Hi everyone! I am Chenbei Lu, a fourth-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in computer science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in computer software engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
 
 ---
 ## Research Interests ##
