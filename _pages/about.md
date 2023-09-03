@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>Hi everyone! I am Chenbei Lu, a third-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in Computer Science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in Software Engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
+<font size=3>Hi everyone! I am Chenbei Lu, a fourth-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in Computer Science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in Software Engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
 
 ---
 ## Research Interests ##
@@ -17,12 +17,15 @@ redirect_from:
 
 ---
 ## News ##
-<font size=2>*Sep. 2, 2023, our work 'Privacy Preserving User Energy Consumption Profiling: From Theory to Application' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
-<font size=2>*Aug. 27, 2023, I begin the exciting visit to the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, for six months, where I work with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a> and a lot of interesting people!</font> <br>
-<font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>!</font> <br>
-<font size=2>*Feb. 6, 2023, our work 'High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach' has been accepted by <b>The Journal of the Franklin Institute</b>!</font> <br>
-<font size=2>*Jan. 17, 2023, our work 'Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
-<font size=2>*Jul. 13, 2022, our work 'Deadline Differentiated Dynamic EV Charging Price Menu Design' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
+<ul>
+  <\li><font size=2>*Sep. 2, 2023, our work 'Privacy Preserving User Energy Consumption Profiling: From Theory to Application' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
+<\li><font size=2>*Aug. 27, 2023, I begin the exciting visit to the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, for six months, where I work with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a> and a lot of interesting people!</font> <br>
+<\li><font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>!</font> <br>
+<\li><font size=2>*Feb. 6, 2023, our work 'High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach' has been accepted by <b>The Journal of the Franklin Institute</b>!</font> <br>
+<\li><font size=2>*Jan. 17, 2023, our work 'Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
+<\li><font size=2>*Jul. 13, 2022, our work 'Deadline Differentiated Dynamic EV Charging Price Menu Design' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> <br>
+  <\ul>
+
 
 ---
 ## Academic Service ##
@@ -68,7 +71,7 @@ redirect_from:
       <li><font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
     <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu</b>, Chenye Wu</font><br>
     <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)</font>
-</ul>
+
 
 
 
