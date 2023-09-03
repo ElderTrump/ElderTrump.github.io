@@ -34,11 +34,11 @@ redirect_from:
 <ul>
   <li><font size=3>Privacy Preserving User Energy Consumption Profiling: From Theory to Application<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2></li></li>
+    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2></li>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by <b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2></li>
-  <font size=3>“High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach”<font size=3>  <br>
+  <li><font size=3>“High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Wenqian Jiang, Jiaye Teng, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by <b>The Journal of the Franklin Institute</b>. (JCR Q1)<font size=2>
   <li><font size=3>“Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees”<font size=3>  <br>
