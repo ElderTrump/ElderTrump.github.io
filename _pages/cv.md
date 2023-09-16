@@ -8,7 +8,7 @@ redirect_from:
   - /cv.html
 ---
 
-{% include base_path %}
+[CV](/files/CV_LCB.pdf)
 
 Education
 ======
