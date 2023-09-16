@@ -48,7 +48,7 @@ redirect_from:
     <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9840998" target="_blank">Link</a>
       <li><font size=3>“Effective End-to-End Learning Framework for Economic Dispatch”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Network Science and Engineering</b>. (JCR Q1)<font size=2> <a href="[复制的IEEE链接](https://ieeexplore.ieee.org/document/9762035)">Link</a>
+    <font size=2>Accepted by <b>IEEE Transactions on Network Science and Engineering</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9762035">Link</a>
       <li><font size=3>“Privacy-Preserving Decentralized Price Coordination for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>. (JCR Q2)<font size=2> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378779622005259">Link</a>
