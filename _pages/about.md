@@ -36,16 +36,16 @@ redirect_from:
 <ul>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2>  [Link](https://ieeexplore.ieee.org/document/10251453)
+    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2>  <a href="https://ieeexplore.ieee.org/document/10251453" target="_blank">Link</a>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2><a href="[复制的IEEE链接](https://ieeexplore.ieee.org/document/10251453)">Link</a>
+    <font size=2>Accepted by <b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2><a href="https://ieeexplore.ieee.org/document/10251453" target="_blank">Link</a>
   <li><font size=3>“High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Wenqian Jiang, Jiaye Teng, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>The Journal of the Franklin Institute</b>. (JCR Q1)<font size=2><a href="[复制的IEEE链接](https://ieeexplore.ieee.org/document/10251453)">Link</a>
+    <font size=2>Accepted by <b>The Journal of the Franklin Institute</b>. (JCR Q1)<font size=2><a href="https://ieeexplore.ieee.org/document/10251453" target="_blank">Link</a>
   <li><font size=3>“Deadline Differentiated Dynamic EV Charging Price Menu Design”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Jiaman Wu, Jingshi Cui, Yanyan Xu, Chenye Wu, Marta C. Gonzalez<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2><a href="[复制的IEEE链接](https://ieeexplore.ieee.org/document/10251453)">Link</a>
+    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2><a href="https://ieeexplore.ieee.org/document/10251453" target="_blank">Link</a>
       <li><font size=3>“Effective End-to-End Learning Framework for Economic Dispatch”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Wenqian Jiang, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by <b>IEEE Transactions on Network Science and Engineering</b>. (JCR Q1)<font size=2><a href="[复制的IEEE链接](https://ieeexplore.ieee.org/document/10251453)">Link</a>
