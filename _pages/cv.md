@@ -10,7 +10,6 @@ redirect_from:
 
 [CV](/files/CV_LCB.pdf)
 
-CV
 
 Education
 ======
