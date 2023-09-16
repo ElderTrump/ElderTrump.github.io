@@ -36,7 +36,7 @@ redirect_from:
 <ul>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2> [PDF](https://ieeexplore.ieee.org/document/10251453) 
+    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2> <a href="[复制的IEEE链接](https://ieeexplore.ieee.org/document/10251453)">PDF</a>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
     <font size=2>Accepted by <b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2>
