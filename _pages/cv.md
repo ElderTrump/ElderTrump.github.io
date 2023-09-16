@@ -10,6 +10,8 @@ redirect_from:
 
 [CV](/files/CV_LCB.pdf)
 
+CV
+
 Education
 ======
 * B.E. in Software Engineering, Huazhong University of Science & Technology, 2020
