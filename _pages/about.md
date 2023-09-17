@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>Hi everyone! I am Chenbei Lu, a fourth-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in computer science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in computer software engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
+<font size=3>Hi everyone! I am Chenbei Lu, a fourth-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>. I major in computer science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in computer software engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
 
 <font size=3>I'm currently a visiting student researcher at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, <a href="https://www.caltech.edu/" target="_blank">Caltech</a>, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>.</font>
 
