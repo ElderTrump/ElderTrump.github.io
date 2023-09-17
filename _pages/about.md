@@ -11,9 +11,12 @@ redirect_from:
 ## About Me ##
 <font size=3>Hi everyone! I am Chenbei Lu, a fourth-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), Tsinghua University. I major in computer science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in computer software engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
 
+<font size=3>I'm currently a visiting student researcher at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech</font>, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>.</font>
+
 ---
 ## Research Interests ##
-<font size=3> My research interests lie in the interdisciplinary research of <b>Computer Science</b> and <b>Energy Systems</b>, focusing on the optimal design and operation to enable the future smart grid and power systems with higher reliability, better economic performance, and lower carbon emission. Technically, we analyze the problems from the perspectives of <b>game theory</b>, <b>optimization</b>, and <b>machine learning</b>. My Email address is lcb20 AT mails.tsinghua.edu.cn, feel free to contact me！!</font>
+<font size=3> 
+My research interests are situated at the nexus of <b>Computer Science</b> and <b>Energy Systems</b>. I am particularly focused on the optimal design and operation of next-generation smart grids and power systems. The ultimate goal is to achieve systems characterized by enhanced reliability, superior economic performance, and reduced carbon emissions. From a methodological standpoint, I employ and develop the techniques from game theory, optimization, and machine learning to address these challenges. For collaboration or further discussions, please feel free to reach out to me at lcb20 AT mails.tsinghua.edu.cn!</font>
 
 ---
 ## News ##
