@@ -16,7 +16,7 @@ redirect_from:
 ---
 ## Research Interests ##
 <font size=3> 
-My research interests are situated at the nexus of <b>Computer Science</b> and <b>Energy Systems</b>. I am particularly focused on the optimal design and operation of next-generation smart grids and power systems. The ultimate goal is to achieve systems characterized by enhanced reliability, superior economic performance, and reduced carbon emissions. From a methodological standpoint, I employ and develop the techniques from game theory, optimization, and machine learning to address these challenges. For collaboration or further discussions, please feel free to reach out to me at lcb20 AT mails.tsinghua.edu.cn!</font>
+My research interests are situated at the nexus of <b>Computer Science</b> and <b>Energy Systems</b>. I am particularly focused on the optimal design and operation of next-generation smart grids and power systems. The ultimate goal is to achieve systems characterized by enhanced reliability, superior economic performance, and reduced carbon emissions. From a methodological standpoint, I employ and develop tools from game theory, optimization, and machine learning to address these challenges. For collaboration or further discussions, please feel free to reach out to me at lcb20 AT mails.tsinghua.edu.cn!</font>
 
 ---
 ## News ##
