@@ -21,7 +21,7 @@ My research interests are situated at the nexus of <b>Computer Science</b> and <
 ---
 ## News ##
 <ul>
-  <li><font size=2>*Sep. 2, 2023, our work 'Manipulation-Proof Virtual Bidding Mechanism Design' has been accepted by <b>IEEE Transactions on Energy Market, Policy and Regulation</b>!</font> </li>
+  <li><font size=2>*Sep. 25, 2023, our work 'Manipulation-Proof Virtual Bidding Mechanism Design' has been accepted by <b>IEEE Transactions on Energy Market, Policy and Regulation</b>!</font> </li>
   <li><font size=2>*Sep. 2, 2023, our work 'Privacy Preserving User Energy Consumption Profiling: From Theory to Application' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> </li>
 <li><font size=2>*Aug. 27, 2023, I begin the exciting visit to the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, for six months, where I work with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a> and a lot of interesting people!</font> </li>
 <li><font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>!</font> </li>
