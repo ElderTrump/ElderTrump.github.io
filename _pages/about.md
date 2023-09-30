@@ -27,7 +27,6 @@ My research interests are situated at the nexus of <b>Computer Science</b> and <
 <li><font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>!</font> </li>
 <li><font size=2>*Feb. 6, 2023, our work 'High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach' has been accepted by <b>The Journal of the Franklin Institute</b>!</font> </li>
 <li><font size=2>*Jan. 17, 2023, our work 'Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> </li>
-<li><font size=2>*Jul. 13, 2022, our work 'Deadline Differentiated Dynamic EV Charging Price Menu Design' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> </li>
 </ul>
 
 ---
