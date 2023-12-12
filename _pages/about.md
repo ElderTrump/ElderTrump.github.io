@@ -39,28 +39,28 @@ My research interests are situated at the nexus of <b>Computer Science</b> and <
 <ul>
   <li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Nan Gu, Haoxiang Wang, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2>  
+    <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2>  
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2>  <a href="https://ieeexplore.ieee.org/document/10251453">[Link]</a>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2>  <a href="https://ieeexplore.ieee.org/document/10251453">[Link]</a>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/10102582">[Link]</a>
+    <font size=2><b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/10102582">[Link]</a>
   <li><font size=3>“High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Wenqian Jiang, Jiaye Teng, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>The Journal of the Franklin Institute</b>. (JCR Q1)<font size=2> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016003223000911">[Link]</a>
+    <font size=2><b>The Journal of the Franklin Institute</b>. (JCR Q1)<font size=2> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016003223000911">[Link]</a>
   <li><font size=3>“Deadline Differentiated Dynamic EV Charging Price Menu Design”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Jiaman Wu, Jingshi Cui, Yanyan Xu, Chenye Wu, Marta C. Gonzalez<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9840998">[Link]</a>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9840998">[Link]</a>
       <li><font size=3>“Effective End-to-End Learning Framework for Economic Dispatch”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by <b>IEEE Transactions on Network Science and Engineering</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9762035">[Link]</a>
+    <font size=2><b>IEEE Transactions on Network Science and Engineering</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9762035">[Link]</a>
       <li><font size=3>“Privacy-Preserving Decentralized Price Coordination for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by the 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>. (JCR Q2)<font size=2> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378779622005259">[Link]</a>
+    <font size=2>The 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>. (JCR Q2)<font size=2> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378779622005259">[Link]</a>
       <li><font size=3>“Storage-Aided Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
-    <font size=2>Accepted by the 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).</font> <a href="https://ieeexplore.ieee.org/document/9683047">[Link]</a>
+    <font size=2>The 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).</font> <a href="https://ieeexplore.ieee.org/document/9683047">[Link]</a>
     
 
 
