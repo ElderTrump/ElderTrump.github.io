@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>Hi everyone! I am Chenbei Lu, a fourth-year Ph.D. student at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>. I major in computer science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in computer software engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
+<font size=3>Hi everyone! I am Chenbei Lu, a fourth-year Ph.D. candidate at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>. I major in computer science, and I am very fortunate to be advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I obtained a bachelor's degree in computer software engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
 
 <font size=3>I'm currently a visiting student researcher at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, <a href="https://www.caltech.edu/" target="_blank">Caltech</a>, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>.</font>
 
@@ -21,6 +21,7 @@ My research interests are situated at the nexus of <b>Computer Science</b> and <
 ---
 ## News ##
 <ul>
+  <li><font size=2>*Sep. 25, 2023, our work 'Self-Improving Online Storage Control for Stable Wind Power Commitment' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> </li>
   <li><font size=2>*Sep. 25, 2023, our work 'Manipulation-Proof Virtual Bidding Mechanism Design' has been accepted by <b>IEEE Transactions on Energy Market, Policy and Regulation</b>!</font> </li>
   <li><font size=2>*Sep. 2, 2023, our work 'Privacy Preserving User Energy Consumption Profiling: From Theory to Application' has been accepted by <b>IEEE Transactions on Smart Grid</b>!</font> </li>
 <li><font size=2>*Aug. 27, 2023, I begin the exciting visit to the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, for six months, where I work with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a> and a lot of interesting people!</font> </li>
@@ -32,11 +33,14 @@ My research interests are situated at the nexus of <b>Computer Science</b> and <
 ---
 ## Academic Service ##
 <font size=3><b>TPC Member</b>:</font> <font size=2>SmartGridComm 2022 </font>  <br>
-<font size=3><b>Reviewer</b>:</font> <font size=2><b>Conference</b>:  ACC 2022-2023, SmartGridComm 2022-2023, PSCC 2022, SEST 2021</font> <font size=2><b>Journal</b>:  IEEE Transactions on Smart Grid, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, Electric Power Systems Research </font>
+<font size=3><b>Reviewer</b>:</font> <font size=2><b>Conference</b>:  ACC, SmartGridComm, PSCC, SEST</font> <font size=2><b>Journal</b>:  IEEE Transactions on Smart Grid, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, Electric Power Systems Research </font>
   
 ---
 ## Featured Publications ##
 <ul>
+  <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
+  <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  
   <li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Nan Gu, Haoxiang Wang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2>  
@@ -57,11 +61,7 @@ My research interests are situated at the nexus of <b>Computer Science</b> and <
     <font size=2><b>IEEE Transactions on Network Science and Engineering</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9762035">[Link]</a>
       <li><font size=3>“Privacy-Preserving Decentralized Price Coordination for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu<font size=2> <br>
-    <font size=2>The 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>. (JCR Q2)<font size=2> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378779622005259">[Link]</a>
-      <li><font size=3>“Storage-Aided Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
-    <font size=2><b>Chenbei Lu</b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
-    <font size=2>The 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).</font> <a href="https://ieeexplore.ieee.org/document/9683047">[Link]</a>
-    
+    <font size=2>The 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>. (JCR Q2)
 
 
 
