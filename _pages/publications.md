@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 <ul>
+  <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
+  <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  
   <li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Nan Gu, Haoxiang Wang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2>  
