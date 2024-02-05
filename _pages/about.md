@@ -16,7 +16,7 @@ redirect_from:
 ---
 ## Research Interests ##
 <font size=3> 
-My research interests are situated at the nexus of <b>Computer Science</b> and <b>Energy Systems</b>. I am particularly focused on the optimal design and operation of next-generation smart grids and power systems. The ultimate goal is to achieve systems characterized by enhanced reliability, superior economic performance, and reduced carbon emissions. From a methodological standpoint, I employ and develop tools from game theory, optimization, and machine learning to address these challenges. For collaboration or further discussions, please feel free to reach out to me at lcb20 AT mails.tsinghua.edu.cn!</font>
+My research interests are situated at the nexus of <b>Computer Science</b> and <b>Energy Systems</b>, concentrating on formulating and advancing theories and algorithms to optimize power system operations and planning, ensuring reliability, economic efficiency, and lower carbon emissions. Technically, I employ and develop tools from Optimization, Reinforcement Learning, Game Theory and Machine Learning to tackle these challenges. For collaboration or further discussions, please feel free to reach out to me at lcb20 AT mails.tsinghua.edu.cn!</font>
 
 ---
 ## News ##
@@ -40,19 +40,16 @@ My research interests are situated at the nexus of <b>Computer Science</b> and <
 <ul>
   <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/abstract/document/10382539">[Link]</a>
   <li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Nan Gu, Haoxiang Wang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2>  
-  <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
+    <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2> <a href="https://ieeexplore.ieee.org/abstract/document/10269719">[Link]</a>
+  <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br> 
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2>  <a href="https://ieeexplore.ieee.org/document/10251453">[Link]</a>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/10102582">[Link]</a>
-  <li><font size=3>“High-Resolution Probabilistic Load Forecasting: A Learning Ensemble Approach”<font size=3>  <br>
-    <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Wenqian Jiang, Jiaye Teng, Chenye Wu<font size=2> <br>
-    <font size=2><b>The Journal of the Franklin Institute</b>. (JCR Q1)<font size=2> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016003223000911">[Link]</a>
   <li><font size=3>“Deadline Differentiated Dynamic EV Charging Price Menu Design”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Jiaman Wu, Jingshi Cui, Yanyan Xu, Chenye Wu, Marta C. Gonzalez<font size=2> <br>
     <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9840998">[Link]</a>
