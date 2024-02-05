@@ -46,19 +46,19 @@ My research interests are situated at <b>CS/AI</b> + <b>Energy Systems</b>, conc
     <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2> <a href="https://ieeexplore.ieee.org/abstract/document/10269719">[Link]</a>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br> 
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2>  <a href="https://ieeexplore.ieee.org/document/10251453">[Link]</a>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/document/10251453">[Link]</a>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Power Systems</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/10102582">[Link]</a>
+    <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://ieeexplore.ieee.org/document/10102582">[Link]</a>
   <li><font size=3>“Deadline Differentiated Dynamic EV Charging Price Menu Design”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Jiaman Wu, Jingshi Cui, Yanyan Xu, Chenye Wu, Marta C. Gonzalez<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9840998">[Link]</a>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2> <a href="https://ieeexplore.ieee.org/document/9840998">[Link]</a>
       <li><font size=3>“Effective End-to-End Learning Framework for Economic Dispatch”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Network Science and Engineering</b>. (JCR Q1)<font size=2> <a href="https://ieeexplore.ieee.org/document/9762035">[Link]</a>
+    <font size=2><b>IEEE Transactions on Network Science and Engineering</b>. <font size=2> <a href="https://ieeexplore.ieee.org/document/9762035">[Link]</a>
       <li><font size=3>“Privacy-Preserving Decentralized Price Coordination for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu<font size=2> <br>
-    <font size=2>The 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>. (JCR Q2)
+    <font size=2>The 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>.  <font size=2> <a href="https://www.sciencedirect.com/science/article/pii/S0378779622005259">[Link]</a>
 
 
 
