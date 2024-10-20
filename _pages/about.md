@@ -15,7 +15,7 @@ redirect_from:
 ---
 ## Research Interests ##
 <font size=3> 
-My research interests are situated at <b>CS/AI</b> + <b>Energy Systems</b>, concentrating on formulating and advancing theories and algorithms to optimize power system operations and planning, ensuring reliability, economic efficiency, and lower carbon emissions. Technically, I employ and develop tools from Optimization, Reinforcement Learning, Game Theory and Machine Learning to tackle these challenges. For collaboration or further discussions, please feel free to reach out to me at lcb20 AT mails.tsinghua.edu.cn!</font>
+My research interests lie at the intersection of reinforcement learning, stochastic optimization, and game theory, with a focus on their applications to energy system operations and planning. I aim to address critical challenges such as ensuring system reliability, enhancing economic efficiency, and reducing carbon emissions. For collaboration or further discussions, please feel free to reach out to me at lcb20 AT mails.tsinghua.edu.cn!</font>
 
 ---
 ## News ##
