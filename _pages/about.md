@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>I'm currently a final-year Ph.D. candidate at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, specializing in Computer Science under the guidance of Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. I earned my bachelor's degree in Computer Software Engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font>
-<br>
-<font size=3>I had the opportunity to be a visiting student at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, <a href="https://www.caltech.edu/" target="_blank">Caltech</a> from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I also collaborate closely with Prof. <a href="https://sites.google.com/view/zaiweichen/home" target="_blank">Zaiwei Chen</a> at Purdue Industrial Engineering, Prof. <a href="https://wei-qi-home.github.io/" target="_blank">Wei Qi</a> at Tsinghua Industrial Engineering, and Dr. <a href="https://laixishi.github.io/" target="_blank">Laixi Shi</a> at Caltech CMS. </font>
+<font size=3>I'm currently a final-year Ph.D. candidate at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, specializing in Computer Science under the guidance of Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. I earned my bachelor's degree in Computer Software Engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font> <br> <font size=3>I had the opportunity to be a visiting student at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, <a href="https://www.caltech.edu/" target="_blank">Caltech</a> from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I also collaborate closely with Prof. <a href="https://sites.google.com/view/zaiweichen/home" target="_blank">Zaiwei Chen</a> at Purdue Industrial Engineering, Prof. <a href="https://wei-qi-home.github.io/" target="_blank">Wei Qi</a> at Tsinghua Industrial Engineering, and Dr. <a href="https://laixishi.github.io/" target="_blank">Laixi Shi</a> at Caltech CMS. </font>
 
 ---
 ## Research Interests ##
@@ -29,7 +27,7 @@ Motivated by critical challenges in sustainable energy systems, my research inte
 
 ---
 ## Academic Service ##
-<font size=3><b>Reviewer for ACC, CDC, PSCC, SmartGridComm, SEST and IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Industrial Application, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, etc. </font>
+<font size=3>Reviewer for ACC, CDC, PSCC, SmartGridComm, SEST and IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Industrial Applications, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, etc. </font>
   
 ---
 ## Selected Publications ##
