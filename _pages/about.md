@@ -27,8 +27,8 @@ Motivated by critical challenges in sustainable energy systems, my research inte
 </ul>
 
 ---
-## Academic Service ##
-<font size=3>Reviewers for ACC, CDC, PSCC, SmartGridComm, SEST and IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Industrial Applications, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, etc. </font>
+## Academic Services ##
+<font size=3>Reviewers for ACC, CDC, PSCC, SmartGridComm, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Industrial Applications, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, etc. </font>
   
 ---
 ## Selected Publications ##
