@@ -33,11 +33,14 @@ Motivated by critical challenges in sustainable energy systems, my research inte
 <font size=3><b>Reviewer</b>:</font> <font size=2><b>Conference</b>:  ACC, SmartGridComm, PSCC, SEST</font> <font size=2><b>Journal</b>:  IEEE Transactions on Smart Grid, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, Electric Power Systems Research </font>
   
 ---
-## Featured Publications ##
+## Selected Publications ##
 <ul>
   <li><font size=3>“Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<font size=2> <br>
-    <font size=2><b>In submission</b>. <font size=2>
+    <font size=2><b>In Submission</b>. <font size=2>
+  <li><font size=3>“Sample-Efficient Model-Based Reinforcement Learning Leveraging Transition Predictions“<font size=3>  <br>
+  <font size=2> <b>Chenbei Lu</b>, Zaiwei Chen, Tongxin Li, Chenye Wu, Adam Wierman<font size=2> <br>
+    <font size=2><b>In Submission</b>. <font size=2>
   <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/abstract/document/10382539">[Link]</a>
@@ -47,9 +50,6 @@ Motivated by critical challenges in sustainable energy systems, my research inte
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://ieeexplore.ieee.org/document/10102582">[Link]</a>
-  <li><font size=3>“Deadline Differentiated Dynamic EV Charging Price Menu Design”<font size=3>  <br>
-    <font size=2> <b>Chenbei Lu</b>, Jiaman Wu, Jingshi Cui, Yanyan Xu, Chenye Wu, Marta C. Gonzalez<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2> <a href="https://ieeexplore.ieee.org/document/9840998">[Link]</a>
 
 
 
