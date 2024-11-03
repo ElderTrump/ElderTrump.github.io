@@ -47,26 +47,26 @@ author_profile: true
 <ul>
   <li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Nan Gu, Haoxiang Wang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2>  
+    <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. </font></font></font></li>
         <li><font size=3>“Deadline Differentiated Dynamic EV Charging Price Menu Design”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Jiaman Wu, Jingshi Cui, Yanyan Xu, Chenye Wu, Marta C. Gonzalez<font size=2> <br>
-    <font size=2> <b>IEEE Transactions on Smart Grid</b>. <font size=2>
+    <font size=2> <b>IEEE Transactions on Smart Grid</b>. </font></font></font></li>
       <li><font size=3>“Privacy-Preserving Decentralized Price Coordination for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Jiaman Wu, Chenye Wu<font size=2> <br>
-    <font size=2>The 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>. <font size=2>
+    <font size=2>The 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>.</font></font></font></li>
     <li><font size=3>“Storage-Aided Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
-    <font size=2>The 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).<font size=2></li>
+    <font size=2>The 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).</font></font></font></li>
 </ul>
 
 <b>Smart Meter Analytics</b>  
 <ul>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2></li>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. </font></font></font></li>
       <li><font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
     <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu</b>, Chenye Wu</font><br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. </font></li>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. </font></font></font></li>
 </ul>
 
 
