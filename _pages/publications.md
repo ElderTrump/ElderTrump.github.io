@@ -45,6 +45,9 @@ author_profile: true
 
 <b>Electricity Market Design / Energy Economics</b> 
 <ul>
+  <li><font size=3>“Strategic Virtual Bidding in a Two-Settlement Multi-Node Electricity Market“<font size=3>  <br>
+  <font size=2> <b>Chenbei Lu</b>, Chenye Wu, Wei Qi<font size=2> <br>
+    <font size=2><b>Draft in Progress</b>. </font></font></font></li>
   <li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Nan Gu, Haoxiang Wang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. </font></font></font></li>
