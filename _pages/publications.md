@@ -38,7 +38,8 @@ author_profile: true
     <font size=2> <b>IEEE Transactions on Network Science and Engineering</b>. <font size=2></li>
 </ul>
 
-<b>Electricity Market Design / Energy Economics</b>   
+<b>Electricity Market Design / Energy Economics</b> 
+<ul>
   <li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Nan Gu, Haoxiang Wang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2>  
@@ -54,12 +55,14 @@ author_profile: true
 </ul>
 
 <b>Smart Meter Analytics</b>  
+<ul>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2></li>
-</ul>
+
       <li><font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
     <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu</b>, Chenye Wu</font><br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)</font><\ul>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)</font></li>
+</ul>
 
 
