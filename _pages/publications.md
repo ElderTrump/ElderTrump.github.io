@@ -4,7 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(* indicates equal contribution)
 
+Reinforcement Learning Theory
+<li><font size=3>“Overcoming the Curse of Dimensionality of Reinforcement Learning via Approximate Factorization“<font size=3>  <br>
+  <font size=2> <b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<font size=2> <br>
+    <font size=2><b>In Submission</b>. <font size=2>  
+<li><font size=3>“A Sample Efficient Model-Based Reinforcement Learning leveraging Transition Predictions“<font size=3>  <br>
+  <font size=2> <b>Chenbei Lu</b>, Zaiwei Chen, Tongxin Li, Chenye Wu, Adam Wierman<font size=2> <br>
+    <font size=2><b>In Submission</b>. <font size=2>  
+<li><font size=3>“On the Sample Complexity of Chance-constrained Markov Decision Processes“<font size=3>  <br>
+  <font size=2> Hongyu Yi*, <b>Chenbei Lu</b>*,  Chenye Wu<font size=2> <br>
+    <font size=2><b>Draft in Progess</b>. <font size=2>  
+      
 <ul>
   <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
