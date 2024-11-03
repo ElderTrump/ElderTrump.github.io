@@ -58,11 +58,10 @@ author_profile: true
 <ul>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2></li>
-
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2></li>
       <li><font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
     <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu</b>, Chenye Wu</font><br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)</font></li>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. </font></li>
 </ul>
 
 
