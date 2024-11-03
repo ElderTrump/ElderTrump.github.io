@@ -33,13 +33,13 @@ author_profile: true
     <font size="2">Jinhao Liang, Wenqian Jiang, <b>Chenbei Lu</b>, and Chenye Wu<br>
     <font size="2"><b>IEEE Transactions on Power Systems</b>.</font></font></font></li>
   
-  <li><font size="3">“Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees”<br>
-    <font size="2">Wenqian Jiang, <b>Chenbei Lu</b>, Chenye Wu<br>
-    <font size="2"><b>IEEE Transactions on Smart Grid</b>.</font></font></font></li>
-  
   <li><font size="3">“Effective End-to-End Learning Framework for Economic Dispatch”<br>
     <font size="2"><b>Chenbei Lu</b>, Wenqian Jiang, Chenye Wu<br>
     <font size="2"><b>IEEE Transactions on Network Science and Engineering</b>.</font></font></font></li>
+
+<li><font size="3">“Robust Online EV Charging Scheduling with Statistical Feasibility”<br>
+    <font size="2">Wenqian Jiang, Jinhao Liang, <b>Chenbei Lu</b>, Chenye Wu<br>
+    <font size=2>The 62th IEEE Conference on Decision and Control (<b>CDC '23</b>).</font></font></font></li>
 </ul>
 
 
