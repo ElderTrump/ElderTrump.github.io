@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(* indicates equal contribution)
+<font size="2">(* indicates equal contribution)<br>
 
 <b>Reinforcement Learning Theory</b>
 <ul>
