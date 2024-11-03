@@ -19,7 +19,7 @@ author_profile: true
     <font size="2"><b>Draft in Progress</b>.</font></font></font></li>
 </ul>
 
-<b>Stochastic/Online Optimization in Power System Operations</b>
+<b><font size="3">Stochastic/Online Optimization in Power System Operations</font></b>
 <ul>
   <li><font size="3">“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<br>
     <font size="2"><b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<br>
@@ -43,7 +43,7 @@ author_profile: true
 </ul>
 
 
-<b>Electricity Market Design / Energy Economics</b> 
+<b><font size="3">Electricity Market Design / Energy Economics</font></b> 
 <ul>
   <li><font size=3>“Strategic Virtual Bidding in a Two-Settlement Multi-Node Electricity Market“  <br>
   <font size="2"> <b>Chenbei Lu</b>, Chenye Wu, Wei Qi <br>
@@ -66,7 +66,7 @@ author_profile: true
     <font size=2>The 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).</font></font></font></li>
 </ul>
 
-<b>Smart Meter Analytics</b>  
+<b><font size="3">Smart Meter Analytics</font></b>  
 <ul>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu <br>
