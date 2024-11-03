@@ -16,7 +16,7 @@ author_profile: true
     <font size=2><b>In Submission</b>. <font size=2>  
 <li><font size=3>“On the Sample Complexity of Chance-constrained Markov Decision Processes“<font size=3>  <br>
   <font size=2> Hongyu Yi*, <b>Chenbei Lu</b>*,  Chenye Wu<font size=2> <br>
-    <font size=2><b>Draft in Progess</b>. <font size=2>  
+    <font size=2><b>Draft in Progess</b>. <font size=2>  <ul>
 
 <b>Stochastic/Online Optimization in Power System Operations</b>
 <ul>
