@@ -16,7 +16,7 @@ author_profile: true
     <font size=2><b>In Submission</b>. <font size=2>  
 <li><font size=3>“On the Sample Complexity of Chance-constrained Markov Decision Processes“<font size=3>  <br>
   <font size=2> Hongyu Yi*, <b>Chenbei Lu</b>*,  Chenye Wu<font size=2> <br>
-    <font size=2><b>Draft in Progess</b>. <font size=2>  <ul>
+    <font size=2><b>Draft in Progess</b>. <font size=2>  <\ul>
 
 <b>Stochastic/Online Optimization in Power System Operations</b>
 <ul>
@@ -34,7 +34,7 @@ author_profile: true
     <font size=2> <b>IEEE Transactions on Smart Grid</b>. <font size=2>
           <li><font size=3>“Effective End-to-End Learning Framework for Economic Dispatch”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2> <b>IEEE Transactions on Network Science and Engineering</b>. <font size=2>
+    <font size=2> <b>IEEE Transactions on Network Science and Engineering</b>. <font size=2><\ul>
 
 <b>Electricity Market Design / Energy Economics</b>   
   <li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br>
@@ -48,7 +48,7 @@ author_profile: true
     <font size=2>The 22th Power Systems Computation Conference (<b>PSCC 2022</b>) and <b>Electric Power Systems Research</b>. <font size=2>
     <li><font size=3>“Storage-Aided Service Surcharge Design for EV Charging Stations”<font size=3>  <br>
     <font size=2><b>Chenbei Lu</b>, Zhiqi Wang, Chenye Wu<font size=2> <br>
-    <font size=2>The 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).<font size=2>
+    <font size=2>The 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).<font size=2><\ul>
 
 <b>Smart Meter Analytics</b>  
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br>
@@ -56,6 +56,6 @@ author_profile: true
     <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)<font size=2>
       <li><font size=3>“Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective”<font size=3><br>
     <font size=2>Haoxiang Wang, Jiasheng Zhang, <b>Chenbei Lu</b>, Chenye Wu</font><br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)</font>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. (JCR Q1)</font><\ul>
 
 
