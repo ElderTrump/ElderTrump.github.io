@@ -21,22 +21,27 @@ author_profile: true
 
 <b>Stochastic/Online Optimization in Power System Operations</b>
 <ul>
-  <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
-    <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2>
-  <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
-  <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>
-      <li><font size=3>“Joint Chance-constrained Unit Commitment: Statistically Feasible Robust Optimization with Learning-to-Optimize Acceleration”<font size=3>  <br>
-  <font size=2>Jinhao Liang, Wenqian Jiang, <b>Chenbei Lu</b>, and Chenye Wu<font size=2> <br>
-  <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2>
-    <li><font size=3>“Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees”<font size=3>  <br>
-    <font size=2> Wenqian Jiang, <b>Chenbei Lu</b>, Chenye Wu<font size=2> <br>
-    <font size=2> <b>IEEE Transactions on Smart Grid</b>. <font size=2>
-          <li><font size=3>“Effective End-to-End Learning Framework for Economic Dispatch”<font size=3>  <br>
-    <font size=2> <b>Chenbei Lu</b>, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2> <b>IEEE Transactions on Network Science and Engineering</b>. <font size=2></li>
+  <li><font size="3">“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<br>
+    <font size="2"><b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<br>
+    <font size="2"><b>IEEE Transactions on Power Systems</b>.</font></font></font></li>
+  
+  <li><font size="3">“Self-Improving Online Storage Control for Stable Wind Power Commitment“<br>
+    <font size="2"><b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<br>
+    <font size="2"><b>IEEE Transactions on Smart Grid</b>.</font></font></font></li>
+  
+  <li><font size="3">“Joint Chance-constrained Unit Commitment: Statistically Feasible Robust Optimization with Learning-to-Optimize Acceleration”<br>
+    <font size="2">Jinhao Liang, Wenqian Jiang, <b>Chenbei Lu</b>, and Chenye Wu<br>
+    <font size="2"><b>IEEE Transactions on Power Systems</b>.</font></font></font></li>
+  
+  <li><font size="3">“Robust Scheduling of Thermostatically Controlled Loads with Statistically Feasible Guarantees”<br>
+    <font size="2">Wenqian Jiang, <b>Chenbei Lu</b>, Chenye Wu<br>
+    <font size="2"><b>IEEE Transactions on Smart Grid</b>.</font></font></font></li>
+  
+  <li><font size="3">“Effective End-to-End Learning Framework for Economic Dispatch”<br>
+    <font size="2"><b>Chenbei Lu</b>, Wenqian Jiang, Chenye Wu<br>
+    <font size="2"><b>IEEE Transactions on Network Science and Engineering</b>.</font></font></font></li>
 </ul>
+
 
 <b>Electricity Market Design / Energy Economics</b> 
 <ul>
