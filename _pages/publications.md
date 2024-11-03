@@ -14,7 +14,7 @@ author_profile: true
   <li><font size="3">“A Sample Efficient Model-Based Reinforcement Learning leveraging Transition Predictions“<br>
     <font size="2"><b>Chenbei Lu</b>, Zaiwei Chen, Tongxin Li, Chenye Wu, Adam Wierman<br>
     <font size="2"><b>In Submission</b>.</font></font></font></li>
-  <li><font size="3">“On the Sample Complexity of Chance-constrained Markov Decision Processes“<br>
+  <li><font size="3">“On the Sample Complexity of Chance-Constrained Markov Decision Processes“<br>
     <font size="2">Hongyu Yi*, <b>Chenbei Lu</b>*, Chenye Wu<br>
     <font size="2"><b>Draft in Progress</b>.</font></font></font></li>
 </ul>
