@@ -36,7 +36,7 @@ Motivated by critical challenges in sustainable energy systems, my research inte
 <ul>
   <li><font size=3>“Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<font size=2> <br>
-    <font size=2><b>In Submission</b>. <a href="https://arxiv.org/pdf/2411.07591" target="_blank">paper</a></font>
+    <font size=2><b>In Submission</b>. <a href="https://arxiv.org/pdf/2411.07591" target="_blank">[pdf]</a></font>
   <li><font size=3>“Sample-Efficient Model-Based Reinforcement Learning Leveraging Transition Predictions“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Zaiwei Chen, Tongxin Li, Chenye Wu, Adam Wierman<font size=2> <br>
     <font size=2><b>In Submission</b>. <font size=2>
