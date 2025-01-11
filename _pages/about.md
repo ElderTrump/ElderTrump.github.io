@@ -36,19 +36,19 @@ Motivated by critical challenges in sustainable energy systems, my research inte
 <ul>
   <li><font size=3>“Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<font size=2> <br>
-    <font size=2><b>In Submission</b>. <a href="https://arxiv.org/pdf/2411.07591" target="_blank">[pdf]</a></font>
+    <font size=2><b>In Submission</b>. <a href="https://eldertrump.github.io/files/RL_paper_1.pdf" target="_blank">[pdf]</a></font>
   <li><font size=3>“Sample-Efficient Model-Based Reinforcement Learning Leveraging Transition Predictions“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Zaiwei Chen, Tongxin Li, Chenye Wu, Adam Wierman<font size=2> <br>
     <font size=2><b>In Submission</b>. <font size=2>
   <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/abstract/document/10382539">[Link]</a>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Self-Improving_Online_Storage_Control_for_Stable_Wind_Power_Commitment.pdf">[Link]</a>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://ieeexplore.ieee.org/document/10102582">[Link]</a>
+    <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://eldertrump.github.io/files/Sample-Adaptive_Robust_Economic_Dispatch_With_Statistically_Feasible_Guarantees (1).pdf">[Link]</a>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br> 
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/document/10251453">[Link]</a>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Privacy_Preserving_User_Energy_Consumption_Profiling_From_Theory_to_Application.pdf">[Link]</a>
 
 
 
