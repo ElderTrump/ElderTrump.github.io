@@ -42,13 +42,13 @@ Motivated by critical challenges in sustainable energy systems, my research inte
     <font size=2><b>In Submission</b>. <font size=2>
   <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Self-Improving_Online_Storage_Control_for_Stable_Wind_Power_Commitment.pdf">[Link]</a>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Self-Improving_Online_Storage_Control_for_Stable_Wind_Power_Commitment.pdf">[pdf]</a>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://eldertrump.github.io/files/Sample-Adaptive_Robust_Economic_Dispatch_With_Statistically_Feasible_Guarantees (1).pdf">[Link]</a>
+    <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://eldertrump.github.io/files/Sample-Adaptive_Robust_Economic_Dispatch_With_Statistically_Feasible_Guarantees (1).pdf">[pdf]</a>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br> 
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Privacy_Preserving_User_Energy_Consumption_Profiling_From_Theory_to_Application.pdf">[Link]</a>
+    <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Privacy_Preserving_User_Energy_Consumption_Profiling_From_Theory_to_Application.pdf">[pdf]</a>
 
 
 
