@@ -20,7 +20,6 @@ Motivated by critical challenges in sustainable energy systems, my research inte
 ---
 ## News ##
 <ul>
-  <li><font size=2>*Oct. 10, 2024, our manuscript 'Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization' has been submitted.</font> </li>
   <li><font size=2>*Jul. 21, 2024, I attended PESGM 2024, where I presented our work on sample-adaptive joint chance-constrained optimization for economic dispatch.</font> </li>
   <li><font size=2>*May. 10, 2024, our manuscript 'Sample-Efficient Model-Based Reinforcement Learning Leveraging Transition Predictions' has been submitted.</font> </li>
   <li><font size=2>*Jan. 1, 2024, our work 'Self-Improving Online Storage Control for Stable Wind Power Commitment' has been accepted by <b>IEEE Transactions on Smart Grid</b>.</font> </li>
@@ -37,7 +36,7 @@ Motivated by critical challenges in sustainable energy systems, my research inte
 <ul>
   <li><font size=3>“Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<font size=2> <br>
-    <font size=2><b>In Submission</b>. <font size=2>
+    <font size=2><b>In Submission</b>. <a href="https://arxiv.org/pdf/2411.07591" target="_blank">paper</a></font>
   <li><font size=3>“Sample-Efficient Model-Based Reinforcement Learning Leveraging Transition Predictions“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Zaiwei Chen, Tongxin Li, Chenye Wu, Adam Wierman<font size=2> <br>
     <font size=2><b>In Submission</b>. <font size=2>
