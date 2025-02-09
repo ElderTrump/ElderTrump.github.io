@@ -20,16 +20,18 @@ Motivated by critical challenges in sustainable energy systems, my research inte
 ---
 ## News ##
 <ul>
-  <li><font size=2>*Jul. 21, 2024, I attended PESGM 2024, where I presented our work on sample-adaptive joint chance-constrained optimization for economic dispatch.</font> </li>
-  <li><font size=2>*May. 10, 2024, our manuscript 'Sample-Efficient Model-Based Reinforcement Learning Leveraging Transition Predictions' has been submitted.</font> </li>
+  <li><font size=2>*Dec. 16, 2024, I'm excited to attend IEEE CDC 2024 in Milan, Italy. Looking forward to seeing you all!</font> </li>
+  <li><font size=2>*Dec. 1, 2024, Multiple works on understanding differential privacy for energy systems have been accepted by <b>Applied Energy</b>. Thanks to the excellent collaborators! </font> </li>
+  <li><font size=2>*Jul. 21, 2024, I'm excited to attend IEEE PESGM 2024 in Seattle, US, where I will present our work on sample-adaptive joint chance-constrained optimization for economic dispatch. Looking forward to seeing you all!</font> </li>
+  <li><font size=2>*May. 10, 2024, our new manuscripts in theoretical reinforcement learning have been submitted.</font> </li>
   <li><font size=2>*Jan. 1, 2024, our work 'Self-Improving Online Storage Control for Stable Wind Power Commitment' has been accepted by <b>IEEE Transactions on Smart Grid</b>.</font> </li>
-<li><font size=2>*Aug. 27, 2023, I began an exciting six-month visit to the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, collaborating with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a> and many inspiring researchers!</font> </li>
+<li><font size=2>*Aug. 27, 2023, I begin an exciting six-month visit to the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, collaborating with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a> and many inspiring researchers!</font> </li>
 <li><font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>.</font> </li>
 </ul>
 
 ---
 ## Academic Services ##
-<font size=3>Reviewers for ACC, CDC, PSCC, SmartGridComm, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Industrial Applications, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, etc. </font>
+<font size=3>Reviewers for ACC, CDC, PSCC, SmartGridComm, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Industrial Applications, Applied Energy, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, etc. </font>
   
 ---
 ## Selected Publications ##
