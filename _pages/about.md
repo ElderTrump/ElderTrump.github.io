@@ -27,7 +27,7 @@ Motivated by critical challenges in sustainable energy systems, my research inte
   <li><font size=2>*Jan. 1, 2024, our work 'Self-Improving Online Storage Control for Stable Wind Power Commitment' has been accepted by <b>IEEE Transactions on Smart Grid</b>. Thanks to the excellent collaborators! </font> </li>
   <li><font size=2>*Oct. 15, 2024, I'm excited to attend INFORMS 2023 in Phoenix, US. Looking forward to seeing you all! </font> </li>
 <li><font size=2>*Aug. 27, 2023, I begin an exciting six-month visit to the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, Caltech, collaborating with Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a> and many inspiring researchers!</font> </li>
-<li><font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>.</font> Thanks to the excellent collaborators!  </li>
+<li><font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>. Thanks to the excellent collaborators! </font> </li>
 </ul>
 
 ---
