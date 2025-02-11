@@ -66,7 +66,7 @@ author_profile: true
     <font size=2>The 60th IEEE Conference on Decision and Control (<b>CDC '21</b>).</font></font></font></li>
 </ul>
 
-<b><font size="3">Smart Meter Analytics</font></b>  
+<b><font size="3">Smart Meter Data Analytics</font></b>  
 <ul>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“  <br>
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu <br>
