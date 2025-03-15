@@ -6,19 +6,6 @@ author_profile: true
 ---
 <font size="2">(* indicates equal contribution)<br>
 
-<b><font size="3">Reinforcement Learning Theory</font></b>
-<ul>
-  <li><font size="3">“Overcoming the Curse of Dimensionality of Reinforcement Learning via Approximate Factorization“<br>
-    <font size="2"><b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<br>
-    <font size="2"><b>In Submission</b>.</font></font></font></li>
-  <li><font size="3">“A Sample Efficient Model-Based Reinforcement Learning leveraging Transition Predictions“<br>
-    <font size="2"><b>Chenbei Lu</b>, Zaiwei Chen, Tongxin Li, Chenye Wu, Adam Wierman<br>
-    <font size="2"><b>In Submission</b>.</font></font></font></li>
-  <li><font size="3">“On the Sample Complexity of Chance-Constrained Markov Decision Processes“<br>
-    <font size="2">Hongyu Yi*, <b>Chenbei Lu</b>*, Chenye Wu<br>
-    <font size="2"><b>Draft in Progress</b>.</font></font></font></li>
-</ul>
-
 <b><font size="3">Stochastic/Online Optimization in Power System Operations</font></b>
 <ul>
   <li><font size="3">“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees”<br>
