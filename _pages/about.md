@@ -15,7 +15,7 @@ redirect_from:
 ---
 ## Research Interests ##
 <font size=3> 
-My research aims to address the challenges in energy system operations within time-varying and safety-critical environments, contributing to scalable and adaptive solutions for real-world applications. </font>
+My research aims to address the challenges in energy system operations within time-varying and safety-critical environments by providing scalable and adaptive solutions with performance guarantees. </font>
 
 
 
