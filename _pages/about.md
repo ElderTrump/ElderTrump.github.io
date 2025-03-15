@@ -42,7 +42,7 @@ My research aims to address the challenges in energy system operations within ti
     <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Self-Improving_Online_Storage_Control_for_Stable_Wind_Power_Commitment.pdf">[pdf]</a>
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees” target="_blank"<font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://eldertrump.github.io/files/Sample-Adaptive_Robust_Economic_Dispatch_With_Statistically_Feasible_Guarantees (1).pdf" target="_blank">[pdf]</a>
+    <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://eldertrump.github.io/files/Sample-Adaptive_Robust_Economic_Dispatch_With_Statistically_Feasible_Guarantees (1).pdf" >[pdf]</a>
   <li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br> 
   <font size=2> <b>Chenbei Lu</b>, Jingshi Cui, Haoxiang Wang, Hongyu Yi, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Privacy_Preserving_User_Energy_Consumption_Profiling_From_Theory_to_Application.pdf" target="_blank">[pdf]</a>
