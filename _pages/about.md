@@ -22,7 +22,6 @@ My research aims to address the challenges in energy system operations within ti
 ---
 ## News ##
 <ul>
-  <li><font size=2>*Dec. 16, 2024, I'm excited to attend IEEE CDC 2024 in Milan, Italy. Looking forward to seeing you all!</font> </li>
   <li><font size=2>*Jul. 21, 2024, I'm excited to attend IEEE PESGM 2024 in Seattle, US, where I will present our work on sample-adaptive joint chance-constrained optimization for economic dispatch. Looking forward to seeing you all!</font> </li>
   <li><font size=2>*Jan. 1, 2024, our work 'Self-Improving Online Storage Control for Stable Wind Power Commitment' has been accepted by <b>IEEE Transactions on Smart Grid</b>. Thanks to the excellent collaborators! </font> </li>
   <li><font size=2>*Oct. 15, 2024, I'm excited to attend INFORMS 2023 in Phoenix, US. Looking forward to seeing you all! </font> </li>
