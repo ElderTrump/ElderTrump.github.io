@@ -8,7 +8,7 @@ redirect_from:
   - /cv.html
 ---
 
-#[CV](/files/CV_LCB.pdf)
+
 [CV]
 
 Education
