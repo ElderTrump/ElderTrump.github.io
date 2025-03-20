@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>I'm currently a final-year Ph.D. candidate at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, under the guidance of Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. I earned my bachelor's degree in Software Engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font> <br> <font size=3>I had the opportunity to be a visiting student at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, <a href="https://www.caltech.edu/" target="_blank">Caltech</a> from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I also collaborate closely with Prof. <a href="https://sites.google.com/view/zaiweichen/home" target="_blank">Zaiwei Chen</a> at Purdue IE, Prof. <a href="https://wei-qi-home.github.io/" target="_blank">Wei Qi</a> at Tsinghua IE, and Dr. <a href="https://laixishi.github.io/" target="_blank">Laixi Shi</a> at Caltech CMS. </font>
+<font size=3>I'm currently a final-year Ph.D. candidate at the <a href="https://iiis.tsinghua.edu.cn/en/about/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS), <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, specializing in Computer Science under the guidance of Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. I earned my bachelor's degree in Computer Software Engineering from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology</a> (HUST).</font> <br> <font size=3>I had the opportunity to be a visiting student at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences (CMS) Department</a>, <a href="https://www.caltech.edu/" target="_blank">Caltech</a> from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I also collaborate closely with Prof. <a href="https://sites.google.com/view/zaiweichen/home" target="_blank">Zaiwei Chen</a> at Purdue IE, Prof. <a href="https://wei-qi-home.github.io/" target="_blank">Wei Qi</a> at Tsinghua IE, and Dr. <a href="https://laixishi.github.io/" target="_blank">Laixi Shi</a> at Caltech CMS. </font>
 
 <font size=3><b>I am currently on the 2024-2025 job market, seeking full-time academic positions. Please feel free to reach out if there are any opportunities for collaboration or position!</b></font>
 ---
 ## Research Interests ##
 <font size=3> 
-My research aims to address the challenges in energy system operations within time-varying and safety-critical environments by providing scalable and adaptive solutions with performance guarantees. </font>
+Motivated by critical challenges in sustainable energy systems, my research interests lie at the intersection of reinforcement learning, stochastic optimization, and game theory. I focus on developing sample-efficient and robust decision-making frameworks with provable guarantees by formalizing and encoding task-dependent structures and information. Specifically, I aim to address the challenges in energy system operations within time-varying and safety-critical environments, contributing to scalable and adaptive solutions for real-world applications. </font>
+
+
 
 
 
@@ -36,6 +38,9 @@ My research aims to address the challenges in energy system operations within ti
 ---
 ## Selected Publications ##
 <ul>
+   <li><font size=3>“Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization“<font size=3>  <br>
+  <font size=2> <b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<font size=2> <br>
+    <font size=2><b>In Submission</b>. <a href="https://eldertrump.github.io/files/RL_paper_1.pdf" target="_blank">[pdf]</a></font>
   <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Self-Improving_Online_Storage_Control_for_Stable_Wind_Power_Commitment.pdf">[pdf]</a>
