@@ -12,7 +12,6 @@ redirect_from:
 <font size=3>I'm currently a final-year Ph.D. candidate in Computer Science at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, fortunately advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology.</font>  <font size=3>I was  a visiting student researcher at the Computing + Mathematical Sciences (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I also collaborate closely with Prof. <a href="https://sites.google.com/view/zaiweichen/home" target="_blank">Zaiwei Chen</a> at Purdue IE, Prof. <a href="https://wei-qi-home.github.io/" target="_blank">Wei Qi</a> at Tsinghua IE, and Dr. <a href="https://laixishi.github.io/" target="_blank">Laixi Shi</a> at Caltech CMS. </font>
 
 
-<font size=3><b>I am currently on the 2024-2025 job market, seeking full-time academic positions. Please feel free to reach out if there are any opportunities for collaboration or position!</b></font>
 ---
 ## Research Interests ##
 <font size=3> 
