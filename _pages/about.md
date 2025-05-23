@@ -15,7 +15,7 @@ redirect_from:
 ---
 ## Research Interests ##
 <font size=3> 
-My research interests lie broadly in learning, optimization and power systems. I focus on developing data-efficient and robust decision-making frameworks with provable performance guarantees by leveraging task-dependent structures and information. In application, I aim to address the challenges of power and energy system operations in time-varying, safety-critical environments, contributing to scalable, adaptive, and sustainable solutions. </font>
+My research interests lie broadly in learning, optimization, control and power systems. I focus on developing data-efficient and robust decision-making frameworks with provable performance guarantees by leveraging task-dependent structures and information. In application, I aim to address the challenges of power and energy system operations in time-varying, safety-critical environments, contributing to scalable, adaptive, and sustainable solutions. </font>
 
 
 
