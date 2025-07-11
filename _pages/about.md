@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>I received my Ph.D. in Computer Science from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology.</font>  <font size=3>I was  a visiting student researcher at the Computing + Mathematical Sciences (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I'm an incoming postdoctoral fellow at Cornell University this Fall.
+<font size=3>I received my Ph.D. in Computer Science from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology.</font>  <font size=3>I was  a visiting student researcher at the Computing + Mathematical Sciences (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I'm an incoming postdoctoral fellow at Cornell University this Fall. </font>
+
+
 
 
 ---
