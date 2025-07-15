@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>I received my Ph.D. in Computer Science from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology.</font>  <font size=3>I was  a visiting student researcher at the Computing + Mathematical Sciences (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I'm an incoming postdoctoral fellow in Cornell University this Fall. </font>
+<font size=3>I recently received my Ph.D. in Computer Science from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a>. Before that, I was  a visiting student researcher at the Computing + Mathematical Sciences (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology. I will be joining Cornell University as a postdoctoral fellow this Fall. </font>
 
 
 
@@ -17,7 +17,8 @@ redirect_from:
 ---
 ## Research Interests ##
 <font size=3> 
-My research focuses on AI for Sustainability, with broad interests in reinforcement learning, optimization, control, and power systems. I develop data-efficient and robust learning and optimization algorithms with provable performance guarantees, leveraging task-dependent structures and information. My work aims to address the challenges of power and energy system operations in time-varying, safety-critical environments, contributing to scalable, adaptive, and sustainable solutions. </font>
+My research focuses on AI + Energy, with broad interests in reinforcement learning, optimization, control, and power systems. I work on the theoretical and algorithmic foundations of large-scale decision-making systems, with a dual focus on (1) AI for Critical Infrastructure：
+Designing scalable, learning-based optimization frameworks for complex energy and infrastructure systems, addressing challenges in real-time, uncertain, and safety-critical environments. (2) Energy for AI: Developing energy-aware algorithms to manage and optimize the operation of AI infrastructure (like data center), balancing energy, latency, and reliability in sustainable computing. </font>
 
 
 
