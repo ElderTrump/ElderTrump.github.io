@@ -17,7 +17,7 @@ redirect_from:
 ---
 ## Research Interests ##
 <font size=3> 
-My research focuses on AI + Energy, with broad interests in reinforcement learning, optimization, control, and power systems. I work on the theoretical and algorithmic foundations of large-scale decision-making systems, with a dual focus on (1) AI for Critical Infrastructure：
+My research focuses on AI + Energy, with broad interests in reinforcement learning, optimization, control, and power systems. I work on the theoretical and algorithmic foundations of large-scale decision-making systems, with a dual focus on (1) AI for Critical Infrastructure:
 Designing scalable, learning-based optimization frameworks for complex energy and infrastructure systems, addressing challenges in real-time, uncertain, and safety-critical environments. (2) Energy for AI: Developing energy-aware algorithms to manage and optimize the operation of AI infrastructure (like data center), balancing energy, latency, and reliability in sustainable computing. </font>
 
 
