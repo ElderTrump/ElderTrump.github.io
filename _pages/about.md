@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3>I recently received my Ph.D. in Computer Science from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a> and Prof. <a href="https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm" target="_blank">Ran Duan</a>. Before that, I was a visiting student researcher at the Computing + Mathematical Sciences (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology. I will be joining Cornell University as a Postdoctoral Fellow this Fall. </font>
+<font size=3>I recently received my Ph.D. in Computer Science and Technology from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a> and Prof. <a href="https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm" target="_blank">Ran Duan</a>. Before that, I was a visiting student researcher at the Computing + Mathematical Sciences (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology. I will be joining Cornell University as a Postdoctoral Fellow this Fall. </font>
 
 
 
@@ -17,7 +17,7 @@ redirect_from:
 ---
 ## Research Interests ##
 <font size=3> 
-My research focuses on AI + Energy, with broad interests in reinforcement learning, control, and energy systems. I work on the theoretical and algorithmic foundations of decision-making in large-scale networked systems, with a dual focus on (1) AI for Energy:
+My research focuses on AI + Energy, with broad interests in energy systems, reinforcement learning, and control. I work on the theoretical and algorithmic foundations of decision-making in large-scale networked systems, with a dual focus on (1) AI for Energy:
 Designing scalable, learning-based optimization frameworks for large-scale power grid control, addressing challenges in real-time, uncertain, and safety-critical environments. (2) Energy for AI: Developing energy-aware algorithms to manage and optimize the operation of networked AI infrastructure (like data center), balancing energy, latency, and reliability in sustainable computing. </font>
 
 
@@ -43,9 +43,6 @@ Designing scalable, learning-based optimization frameworks for large-scale power
 ---
 ## Selected Publications ##
 <ul>
-  <li><font size=3>“Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization“<font size=3>  <br>
-  <font size=2> <b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<font size=2> <br>
-    <font size=2><b>International Conference on Machine Learning (ICML 2025)</b>. <font size=2>  <a href="https://arxiv.org/pdf/2411.07591">[pdf]</a>
   <li><font size=3>“Self-Improving Online Storage Control for Stable Wind Power Commitment“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Hongyu Yi, Jiahao Zhang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://eldertrump.github.io/files/Self-Improving_Online_Storage_Control_for_Stable_Wind_Power_Commitment.pdf">[pdf]</a>
