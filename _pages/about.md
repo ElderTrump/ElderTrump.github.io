@@ -18,7 +18,7 @@ redirect_from:
 ## Research Interests ##
 <font size=3> 
 
-**AI empowers energy; energy sustains AI**.
+**AI Empowers Energy; Energy Sustains AI**.
 
 My research lies at the intersection of AI and Energy, with broad interests in reinforcement learning, stochastic optimization, control, and sustainable energy systems. I focus on the theoretical and algorithmic foundations of online decision-making in large-scale networked systems, with applications in two complementary directions:
 
