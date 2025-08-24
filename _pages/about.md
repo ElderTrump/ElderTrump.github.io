@@ -12,7 +12,7 @@ redirect_from:
 <font size=3>I recently received my Ph.D. in Computer Science from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a> and Prof. <a href="https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm" target="_blank">Ran Duan</a>. Before that, I was a visiting student researcher at the Computing + Mathematical Sciences (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology in 2020. I will be joining Cornell University as a Postdoctoral Fellow in September. </font>
 
 
-<font size=3> Contact: chenbei.lu@cornell.edu</font>
+<font size=3> Contact: chenbei DOT lu AT cornell.edu</font>
 
 
 ---
