@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3> I'm an Eric & Wendy Schmidt AI in Science Postdoctoral Fellow in the <a href="https://science.ai.cornell.edu/" target="_blank">AI for Science Institute</a> at Cornell University, working with Prof. <a href="https://www.peese.org/professor/" target="_blank">Fengqi You</a>. Before that, I received my Ph.D. in Computer Science from the <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS) at Tsinghua University in 2025, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a> and Prof. <a href="https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm" target="_blank">Ran Duan</a>. I was a visiting student researcher at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences</a>(CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology in 2020. </font>
+<font size=3> I'm an Eric & Wendy Schmidt AI in Science Postdoctoral Fellow in the <a href="https://science.ai.cornell.edu/" target="_blank">AI for Science Institute</a> at Cornell University, working with Prof. <a href="https://www.peese.org/professor/" target="_blank">Fengqi You</a>. Before that, I received my Ph.D. in Computer Science from the <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS) at Tsinghua University in 2025, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a> and Prof. <a href="https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm" target="_blank">Ran Duan</a>. I was a visiting student researcher at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences</a> (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology in 2020. </font>
 
 
 
@@ -24,7 +24,7 @@ redirect_from:
 
 <p><b>AI Empowers Energy; Energy Sustains AI</b>.</p>
 
-<p>My research lies at the intersection of AI and Energy, with broad interests in reinforcement learning, stochastic optimization, control, and sustainable energy systems. I focus on the theoretical and algorithmic foundations of online decision-making in large-scale networked systems, with applications in two complementary directions:</p>
+<p>My research interests lies broadly in reinforcement learning, stochastic optimization, control, and sustainable energy systems. I focus on the theoretical and algorithmic foundations of online decision-making in large-scale networked systems, with applications in two complementary directions:</p>
 
 <ul>
   <li><b>AI for Energy</b>: Developing learning-based optimization and control methods for the scalable, reliable, and safe operation of power grids.</li>
