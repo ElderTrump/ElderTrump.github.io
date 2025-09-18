@@ -59,6 +59,9 @@ redirect_from:
 ---
 ## Selected Publications ##
 <ul>
+  <li><font size=3>“Reinforcement Learning with Imperfect Transition Predictions: A Bellman-Jensen Approach“<font size=3>  <br>
+  <font size=2> <b>Chenbei Lu</b>, Zaiwei Chen, Tongxin Li, Chenye Wu, Adam Wierman<font size=2> <br>
+    <font size=2><b>NeurIPS 2025 </b><strong style="color:#d00000;">Spotlight</strong>. <font size=2>  
 <li><font size=3>“Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization“<font size=3>  <br>
   <font size=2> <b>Chenbei Lu</b>, Laixi Shi, Zaiwei Chen, Chenye Wu, Adam Wierman<font size=2> <br>
     <font size=2><b>ICML 2025</b>. <font size=2>  <a href="https://openreview.net/pdf?id=aEsIW59zDm">[pdf]</a>
