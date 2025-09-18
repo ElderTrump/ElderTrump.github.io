@@ -41,6 +41,7 @@ redirect_from:
 ---
 ## News ##
 <ul>
+  <li><font size=2>*Sep. 18, 2025, our work 'Reinforcement Learning with Imperfect Transition Predictions: A Bellman-Jensen Approach' has been accepted by <b>NeurIPS 2025</b> as a <strong style="color:#d00000;">Spotlight</strong>! </font> </li>
   <li><font size=2>*Sep. 9, 2025, our work 'On the Optimal Deterministic Policy Learning in Chance-Constrained Markov Decision Processes' has been accepted by <b>IEEE Control Systems Letters</b>. </font> </li>
   <li><font size=2>*May. 1, 2025, our work 'Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization' has been accepted by <b>ICML 2025</b>. Thanks to the excellent collaborators and look forward to seeing you in Vancouver! </font> </li>
    <li><font size=2>*Apr. 21, 2025, our work 'Cost-Effective Closed-Loop Bilevel Robust Optimization for Joint Chance-Constrained Economic Dispatch' has been accepted by <b>ACM e-Energy 2025</b> as a full paper. Thanks to the excellent collaborators and look forward to seeing you in Rotterdam! </font> </li>
