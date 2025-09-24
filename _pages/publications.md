@@ -22,3 +22,13 @@ author_profile: true
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees” <font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://eldertrump.github.io/files/Sample-Adaptive_Robust_Economic_Dispatch_With_Statistically_Feasible_Guarantees (1).pdf" target="_blank">[pdf]</a>
+<li><font size=3>“Deadline Differentiated Dynamic EV Charging Price Menu Design“<font size=3>  <br> <font size=2> <b>Chenbei Lu</b>, Jiaman Wu, Jingshi Cui, Yanyan Xu, Chenye Wu, and Marta C. Gonzalez.<font size=2> <br>
+<font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/document/9840998">[pdf]</a>
+<li><font size=3>“Privacy Preserving User Energy Consumption Profiling: From Theory to Application“<font size=3>  <br> <font size=2> <b>Chenbei Lu</b>,  Jingshi Cui, Haoxiang Wang, Hongyu Yi, and Chenye Wu.<font size=2> <br>
+<font size=2><b>IEEE Transactions on Smart Grid</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/document/10251453">[pdf]</a>
+<li><font size=3>“Effective End-to-end Learning Framework for Economic Dispatch“<font size=3>  <br> <font size=2> <b>Chenbei Lu</b>,  Wenqian Jiang, and Chenye Wu.<font size=2> <br>
+<font size=2><b>IEEE Transactions on Network Science and Engineering</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/document/9762035">[pdf]</a>
+<li><font size=3>“Manipulation-Proof Virtual Bidding Mechanism Design“<font size=3>  <br> <font size=2> <b>Chenbei Lu</b>, Jinhao Liang, Nan Gu, Haoxiang Wang, and Chenye Wu.<font size=2> <br>
+<font size=2><b>IEEE Transactions on Energy Market, Policy and Regulation</b>. <font size=2>  <a href="https://ieeexplore.ieee.org/document/10269719">[pdf]</a>
+
+
