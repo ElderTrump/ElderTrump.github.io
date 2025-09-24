@@ -22,14 +22,12 @@ redirect_from:
 ## Research Interests ##
 <font size=3> 
 
-<p><b>AI Empowers Energy; Energy Sustains AI</b>.</p>
+<p>My research lies at the intersection of reinforcement learning, stochastic optimization, and robust control, with a focus on sustainable energy and computing systems. </p>
 
-<p>My research interests lies broadly in reinforcement learning, stochastic optimization, control, and sustainable energy systems. I focus on the theoretical and algorithmic foundations of online decision-making in large-scale networked systems, with applications in two complementary directions:</p>
+Theoretically, I aim to develop reinforcement learning algorithms that leverage problem-specific structures for enhancing sample efficiency and providing rigorous safety guarantees, which can enable their deployment in data-limited and safety-critical environments. 
 
-<ul>
-  <li><b>AI for Energy</b>: Developing learning-based optimization and control methods for the scalable, reliable, and safe operation of power grids.</li>
-  <li><b>Energy for AI</b>: Designing multi-scale scheduling algorithms to ensure the efficiency and sustainability of large-scale AI infrastructures, such as data centers.</li>
-</ul>
+Practically, I apply these designed methods to the online operation of complex networked systems: (i) designing efficient and reliable scheduling algorithms for power grids to enhance the stability and sustainability of global energy supply, and (ii) optimizing energy–computation co-scheduling in large-scale data centers to achieve globally efficient energy–AI integration.
+
  
 
 </font>
