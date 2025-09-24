@@ -26,7 +26,7 @@ redirect_from:
 
 <p><b>Theoretically</b>, I develop reinforcement learning and control algorithms that leverage problem-specific structures to overcome the curse of dimensionality in sample efficiency and provide rigorous safety guarantees, which can enable their deployment in data-limited and safety-critical environments. </p>
 
-<p><b>Practically</b>, I apply these designed methods to the online operation of complex networked systems: (i) designing efficient and reliable scheduling algorithms for power grids to enhance the stability and sustainability of global energy supply, and (ii) optimizing energy–computation co-scheduling in large-scale data centers to achieve globally efficient energy–AI integration.</p>
+<p><b>Practically</b>, I apply these designed methods to the online operation of complex networked systems: (i) designing efficient and reliable scheduling algorithms for power grids to enhance the stability and sustainability of global energy supply, and (ii) optimizing energy–computation co-scheduling in large-scale data centers to achieve globally efficient and sustainable energy–AI integration.</p>
 
  
 
