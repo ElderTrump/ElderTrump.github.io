@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-<font size=3> Contact: chenbei DOT lu AT cornell.edu</font>
+<p><font size=3> Contact: chenbei DOT lu AT cornell.edu</font></p>
 
 
 ---
