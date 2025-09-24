@@ -52,10 +52,7 @@ redirect_from:
 <li><font size=2>*Apr. 7, 2023, our work 'Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees' has been accepted by <b>IEEE Transactions on Power Systems</b>. Thanks to the excellent collaborators! </font> </li>
 </ul>
 
----
-## Academic Services ##
-<font size=3>Reviewers for ACC, CDC, PSCC, SmartGridComm, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Industry Applications, Applied Energy, International Journal of Electrical Power & Energy Systems, IEEE Systems Journal, etc. </font>
-  
+
 ---
 ## Selected Publications ##
 <ul>
