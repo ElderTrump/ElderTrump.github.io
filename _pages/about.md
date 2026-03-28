@@ -66,7 +66,7 @@ redirect_from:
     <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://eldertrump.github.io/files/Sample-Adaptive_Robust_Economic_Dispatch_With_Statistically_Feasible_Guarantees (1).pdf" target="_blank">[pdf]</a>
     <li><font size=3>“On the Optimal Deterministic Policy Learning in Chance-Constrained Markov Decision Processes“<font size=3>  <br>
   <font size=2> Hongyu Yi*, <b>Chenbei Lu</b>*, Chenye Wu<font size=2> <br>
-    <font size=2><b>IEEE Control Systems Letters </b>(<strong style="color:#d00000;">Spotlight</strong>). <font size=2>   <a href="https://ieeexplore.ieee.org/abstract/document/11165110">[pdf]</a>
+    <font size=2><b>IEEE Control Systems Letters </b>. <font size=2>   <a href="https://ieeexplore.ieee.org/abstract/document/11165110">[pdf]</a>
   
 
 
