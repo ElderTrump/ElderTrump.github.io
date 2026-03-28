@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me ##
-<font size=3> I'm a Schmidt Postdoctoral Fellow at Cornell University, working with Prof. <a href="https://www.peese.org/professor/" target="_blank">Fengqi You</a>. Before that, I received my Ph.D. in Computer Science from the <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS) at Tsinghua University in 2025, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a> and Prof. <a href="https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm" target="_blank">Ran Duan</a>. I was a visiting student researcher at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences</a> (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I earned my bachelor's degree in Software Engineering from Huazhong University of Science & Technology in 2020. </font>
+<font size=3> I'm an Eric & Wendy Schmidt AI Postdoctoral Fellow at Cornell University, working with Prof. <a href="https://www.peese.org/professor/" target="_blank">Fengqi You</a>. Before that, I received my Ph.D. in Computer Science from the <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences</a> (IIIS) at Tsinghua University in 2025, advised by Prof. <a href="http://www.wuchenye.cn/" target="_blank">Chenye Wu</a> and Prof. <a href="https://iiis.tsinghua.edu.cn/en/People/Faculty/DuanRan.htm" target="_blank">Ran Duan</a>. I was a visiting student researcher at the <a href="https://www.cms.caltech.edu/" target="_blank">Computing + Mathematical Sciences</a> (CMS) Department, Caltech from Aug. 2023 to Mar. 2024, advised by Prof. <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>. I earned my bachelor's degree in Computer Software Engineering from Huazhong University of Science & Technology in 2020. </font>
 
 
 
@@ -64,6 +64,9 @@ redirect_from:
   <li><font size=3>“Sample-Adaptive Robust Economic Dispatch with Statistical Guarantees” <font size=3>  <br>
     <font size=2> <b>Chenbei Lu</b>, Nan Gu, Wenqian Jiang, Chenye Wu<font size=2> <br>
     <font size=2><b>IEEE Transactions on Power Systems</b>. <font size=2> <a href="https://eldertrump.github.io/files/Sample-Adaptive_Robust_Economic_Dispatch_With_Statistically_Feasible_Guarantees (1).pdf" target="_blank">[pdf]</a>
+    <li><font size=3>“On the Optimal Deterministic Policy Learning in Chance-Constrained Markov Decision Processes“<font size=3>  <br>
+  <font size=2> Hongyu Yi*, <b>Chenbei Lu</b>*, Chenye Wu<font size=2> <br>
+    <font size=2><b>IEEE Control Systems Letters </b>(<strong style="color:#d00000;">Spotlight</strong>). <font size=2>   <a href="https://ieeexplore.ieee.org/abstract/document/11165110">[pdf]</a>
   
 
 
